@@ -77,3 +77,10 @@ void traverseR( Node *node ) {
     // implement from session 1 task 1
 }
 
+void display_list( Node *node){
+
+    
+
+    return;
+}
+
